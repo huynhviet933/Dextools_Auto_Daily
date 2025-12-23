@@ -12,10 +12,15 @@ Link Aidrop Free : https://t.me/HVchannelss/16
 
 
 Hướng Dẫn 
+
 Bước 1 : Thêm Proxy vào file proxy.txt
+
 Bước 2 : Thêm user_agents từ file user_agents.txt ( không có thì dùng tool tạo user_agents tại github của tôi ) 
+
 Bước 3 : Thêm Privatekey Vào privatekey.txt 
+
 Bước 4 : Vào Cmd Nhập Lệnh npm install 
+
 Bước 5 : Lệnh chạy " Node main.js"
 
 Nếu có ref.txt
